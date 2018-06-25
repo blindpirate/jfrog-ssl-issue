@@ -8,7 +8,7 @@ Step to reproduce:
   - Gradle user: `./gradlew`
   
   
-  ```
+```
   $ mvn package
 [INFO] Scanning for projects...
 [INFO]
@@ -31,7 +31,7 @@ Downloading: https://repo.maven.apache.org/maven2/org/gradle/hello-world/org.gra
 [ERROR]
 [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/DependencyResolutionException
-  ```
+```
 
 
 ```
